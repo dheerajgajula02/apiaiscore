@@ -1,0 +1,229 @@
+,Date,KeyWord,ActSubCase,Stage,Type,Date_new,days
+0,2021-05-01 00:00:00,recoveryofmoney,370,misccases/purpose,cs(comm),2021-05-01,466
+1,2021-07-09 00:00:00,permanentinjuction,730,misccases/purpose,csdj,2021-07-09,397
+2,22-9-2021,executionact1990,10,misccases/purpose,ex,2021-09-22,322
+3,23-9-2021,recoveryofmoney,2(1)(c)(i),plaintiff/petitionerevidence,cs(comm),2021-09-23,321
+4,29-9-2021,recoveryofmoney,1510,misccases/purpose,cs(comm),2021-09-29,315
+5,2021-05-10 00:00:00,executionact1990,"execution
+",misccases/purpose,ex,2021-05-10,457
+6,2021-07-10 00:00:00,partition,840,misccases/purpose,csdj,2021-07-10,396
+7,2021-09-10 00:00:00,recoveryofmoney,iv,misccases/purpose,cs(comm),2021-09-10,334
+8,28-10-2021,recoveryofmoney,740,misccases/purpose,cs(comm),2021-10-28,286
+9,30-10-2021,civilcases,"civil,suit",misccases/purpose,cs(comm),2021-10-30,284
+10,2021-08-12 00:00:00,recoveryofmoney,80,misccases/purpose,cs(comm),2021-08-12,363
+11,2021-08-12 00:00:00,recoveryofmoney,80,misccases/purpose,cs(comm),2021-08-12,363
+12,17-12-2021,motorvehicleact,1660,misccases/purpose,mact,2021-12-17,236
+13,14-12-2021,recoveryofmoney,2(1)(c)(i),misc/appearance,cs(comm),2021-12-14,239
+14,24-12-2021,recoveryofmoney,2(1)(c)(i),misc/appearance,cs(comm),2021-12-24,229
+15,24-12-2021,recoveryofmoney,740,misccases/purpose,cs(comm),2021-12-24,229
+16,20-12-2021,arbitrationapplicationsu/s9,90,misc/appearance,arbtn,2021-12-20,233
+17,2021-09-07 00:00:00,recoveryofmoney,recovery,misccases/purpose,cs(comm),2021-09-07,337
+18,23-8-2021,possessionandrecoveryofrent/damages/mesneprofit,800,miscarguments,csdj,2021-08-23,352
+19,18-12-2021,"arbitration&conciliationact,1996",90,misccases/purpose,omp(i)(comm),2021-12-18,235
+20,30-10-2021,civilcases,"civil,suit",misc/appearance,cs(comm),2021-10-30,284
+21,2021-08-12 00:00:00,recoveryofmoney,80,misccases/purpose,cs(comm),2021-08-12,363
+22,2018-04-12 00:00:00,suitfordeclaration,permtinjct,plaintiff/petitionerevidence,csdj,2018-04-12,1581
+23,2018-09-07 00:00:00,"arbitration&conciliationact,1996",340,misccases/purpose,arbtn,2018-09-07,1433
+24,2018-03-12 00:00:00,executionact1990,petition,misccases/purpose,ex,2018-03-12,1612
+25,2021-01-02 00:00:00,motorvehicleact,184expl(a),misc/appearance,crcase,2021-01-02,585
+26,2021-10-02 00:00:00,motorvehicleact,184expl(a),trafficchallan,tc,2021-10-02,312
+27,2021-04-10 00:00:00,companiesact,188(5),misc/appearance,ctcases,2021-04-10,487
+28,28-07-2021,ipc,343794110,misccases/purpose,crcase,2021-07-28,378
+29,15-11-2021,negotiableinstrumentsact,1380,misc/appearance,ccniact,2021-11-15,268
+30,2021-12-11 00:00:00,ipc,3790,misc/appearance,crcase,2021-12-11,242
+31,2021-12-11 00:00:00,ipc,3790,misc/appearance,crcase,2021-12-11,242
+32,2021-12-11 00:00:00,ipc,3790,misc/appearance,crcase,2021-12-11,242
+33,2021-01-02 00:00:00,motorvehicleact,184expl(a),misc/appearance,tc,2021-01-02,585
+34,2021-10-02 00:00:00,motorvehicleact,184expl(a),trafficchallan,tc,2021-10-02,312
+35,28-09-2021,companiesact,188(5),misc/appearance,ctcases,2021-09-28,316
+36,15-11-2021,negotiableinstrumentsact,1380,misc/appearance,ccniact,2021-11-15,268
+37,2021-12-11 00:00:00,ipc,3790,misc/appearance,crcase,2021-12-11,242
+38,2021-12-11 00:00:00,ipc,3790,misc/appearance,crcase,2021-12-11,242
+39,2021-05-01 00:00:00,ipc,379/411,misc/appearance,crcase,2021-05-01,466
+40,2021-05-02 00:00:00,ipc,3790,misc/appearance,crcase,2021-05-02,465
+41,2021-05-02 00:00:00,ipc,3790,misc/appearance,crcase,2021-05-02,465
+42,2022-02-04 00:00:00,motorvehicleact,1810,trafficchalan,trafficchalan,2022-02-04,187
+43,"30-03-2022
+",ipc,"379,",misc/appearance,crcases,2022-03-30,133
+44,22-04-2022,ipc,"356,379,",misc/appearance,crcases,2022-04-22,110
+45,20-04-2022,negotiableinstrumentsact,250,misc/appearance,ccniact,2022-04-20,112
+46,24-01-2022,ipc,"420,120b,468,471",misc/appearance,crcases,2022-01-24,198
+47,24-01-2022,negotiableinstrumentsact,1380,misc/appearance,ccniact,2022-01-24,198
+48,24-01-2023,negotiableinstrumentsact,1380,misc/appearance,ccniact,2023-01-24,-167
+49,27-01-2022,negotiableinstrumentsact,1380,misc/appearance,ccniact,2022-01-27,195
+50,31-01-2022,crpc,1560,misc/appearance,ctcases,2022-01-31,191
+51,28-01-2022,ipc,3804114570,misc/appearance,crcases,2022-01-28,194
+52,2022-01-02 00:00:00,paymentandsettlementact,"section,25",misc/appearance,ccniact,2022-01-02,220
+53,2022-08-02 00:00:00,paymentandsettlementact,250,misc/appearance,ccniact,2022-08-02,8
+54,2022-08-02 00:00:00,paymentandsettlementact,250,misc/appearance,ccniact,2022-08-02,8
+55,2022-07-01 00:00:00,negotiableinstrumentsact,3400,misc/appearance,m,2022-07-01,40
+56,2022-10-01 00:00:00,negotiableinstrumentsact,1380,misc/appearance,ccniact,2022-10-01,-52
+57,2022-05-03 00:00:00,ipc,"356,379,411,34",misc/appearance,crcase,2022-05-03,99
+58,26-03-2022,negotiableinstrumentsact,1381420,misc/appearance,ccniact,2022-03-26,137
+59,2022-11-04 00:00:00,ipc,379411340,misc/appearance,courtcomplaint,2022-11-04,-86
+60,2022-05-03 00:00:00,companiesact,section99,misccases/purpose,ctcases,2022-05-03,99
+61,2022-04-04 00:00:00,negotiableinstrumentsact,1380,issues,ccniact,2022-04-04,128
+62,2021-07-04 00:00:00,indianpenalcode,365/412/395,prosecutionevidence,sc,2021-07-04,402
+63,2021-05-03 00:00:00,indianpenalcode,340,prosecutionevidence,sc,2021-05-03,464
+64,2021-06-12 00:00:00,narcoticdrugsandpsychotropicsubstancesact1985,20/61/85,prosecutionevidence,sc,2021-06-12,424
+65,2021-02-12 00:00:00,indianelectricityact,1350,misc/appearance,ctcases,2021-02-12,544
+66,2021-10-05 00:00:00,narcoticdrugsandpsychotropicsubstancesact1985,18/29,prosecutionevidence,sc,2021-10-05,309
+67,2021-01-03 00:00:00,narcoticdrugsandpsychotropicsubstancesact1985,20/21/23/29,misc/appearance,sc,2021-01-03,584
+68,2021-02-12 00:00:00,indianelectricityact,1350,misc/appearance,ctcases,2021-02-12,544
+69,2021-06-12 00:00:00,narcoticdrugsandpsychotropicsubstancesact1985,"20/61/85
+",prosecutionevidence,sc,2021-06-12,424
+70,19-03-2021,indianpenalcode,340,charge,sc,2021-03-19,509
+71,2021-07-08 00:00:00,codeofcriminalprocedure,1250,plaintiff/petitionerevidence,mtcase,2021-07-08,398
+72,2021-05-07 00:00:00,crpc,"execution
+",misccases/purpose,ex,2021-05-07,460
+73,13-04-2021,crpc,1250,misccases/purpose,mtcase,2021-04-13,484
+74,2021-09-10 00:00:00,crpc,1250,arguments,mtcase,2021-09-10,334
+75,16-11-2021,crpc,exe125,misccases/purpose,ex,2021-11-16,267
+76,2020-09-01 00:00:00,negotiableinstrumentsact,1380,misccases/appearance,ctcases,2020-09-01,708
+77,13-1-2020,incometaxact,"276b,278b,278e",prosecutionevidence,ctcases,2020-01-13,940
+78,27-1-2020,negotiableinstrumentsact,1380,misc/appearance,ctcases,2020-01-27,926
+79,24-3-2020,negotiableinstrumentsact,1380,misc/appearance,ctcases,2020-03-24,869
+80,21-8-2020,ipc,"188,34",misc/appearance,ctcases,2020-08-21,719
+81,17-2-2020,negotiableinstrumentsact,1380,misc/appearance,ctcases,2020-02-17,905
+82,24-3-2020,negotiableinstrumentsact,1380,misc/appearance,ctcases,2020-03-24,869
+83,16-3-2020,ipc,3790,misc/appearance,crcases,2020-03-16,877
+84,19-1-2020,negotiableinstrumentsact,1380,misc/appearance,ctcases,2020-01-19,934
+85,17-8-2020,negotiableinstrumentsact,1380,prosecutionevidence,ctcases,2020-08-17,723
+86,24-8-2020,negotiableinstrumentsact,1380,misc/appearance,ctcases,2020-08-24,716
+87,2020-11-09 00:00:00,negotiableinstrumentsact,1380,misccases/purpose,ctcases,2020-11-09,639
+88,21-8-2020,ipc,"188,34",misc/appearance,crcases,2020-08-21,719
+89,2020-10-02 00:00:00,negotiableinstrumentsact,1380,misc/appearance,ctcases,2020-10-02,677
+90,21-3-2020,negotiableinstrumentsact,1380,misc/appearance,ctcases,2020-03-21,872
+91,24-7-2020,negotiableinstrumentsact,1380,misc/appearance,ctcases,2020-07-24,747
+92,16-3-2020,ipc,3790,misc/appearance,crcases,2020-03-16,877
+93,2020-10-08 00:00:00,negotiableinstrumentsact,1380,misc/appearance,ctcases,2020-10-08,671
+94,24-8-2020,negotiableinstrumentsact,1380,misc/appearance,ctcases,2020-08-24,716
+95,2020-11-09 00:00:00,negotiableinstrumentsact,1380,misccases/purpose,ctcases,2020-11-09,639
+96,21-8-2020,ipc,"188,34",misc/appearance,crcases,2020-08-21,719
+97,2020-10-02 00:00:00,negotiableinstrumentsact,1380,misc/appearance,ctcases,2020-10-02,677
+98,24-7-2020,negotiableinstrumentsact,1380,misc/appearance,ctcases,2020-07-24,747
+99,30-07-2019,suitsforrecoveryanddamages,suit,misccases/purpose,csdj,2019-07-30,1107
+100,20-07-2019,recoveryofmoney,recovery,misccases/purpose,csdj,2019-07-20,1117
+101,23-07-2019,civilcases,commercial,misccases/purpose,(cscomm),2019-07-23,1114
+102,23-07-2019,executionact1990,award,misccases/purpose,ex,2019-07-23,1114
+103,2019-03-08 00:00:00,executionact1990,5170,misccases/purpose,ex,2019-03-08,1251
+104,21-08-2019,theindiansuccessionact1925,1070,misccases/purpose,pc,2019-08-21,1085
+105,13-09-2019,recoveryofmoney,740,misccases/purpose,cs(comm),2019-09-13,1062
+106,13-09-2019,civilprocedurecode,1510,misccases/purpose,mcadj,2019-09-13,1062
+107,19-12-2019,"arbitration&conciliationact,1996",340,misccases/purpose,omp(comm),2019-12-19,965
+108,2019-09-10 00:00:00,recoveryofmoney,740,misccases/purpose,csdj,2019-09-10,1065
+109,30-04-2019,possessionandpermanentinjuction,60,plaintiff/petitionerevidence,csdj,2019-04-30,1198
+110,25-07-2019,recoveryofmoney,740,misccases/purpose,cs(comm),2019-07-25,1112
+111,2019-11-12 00:00:00,recoveryofmoney,10,misccases/purpose,cs(comm),2019-11-12,1002
+112,2019-03-01 00:00:00,theindiansuccessionact1925,1070,plaintiff/petitionerevidence,pc,2019-03-01,1258
+113,2019-11-03 00:00:00,theindiansuccessionact1926,2780,misccases/purpose,pc,2019-11-03,1011
+114,19-03-2019,motorvehicleact,1660,plaintiff/petitionerevidence,mact,2019-03-19,1240
+115,20-03-2019,executionact1990,5170,misccases/purpose,ex,2019-03-20,1239
+116,2019-12-04 00:00:00,civilprocedurecode,recovery,plaintiff/petitionerevidence,csdj,2019-12-04,980
+117,2019-07-03 00:00:00,recoveryofmoney,10,plaintiff/petitionerevidence,cs(comm),2019-07-03,1134
+118,16-01-2019,suitfordeclaratuon,970,miscargument,csdj,2019-01-16,1302
+119,2020-01-17 00:00:00,civilcases,1360,misccase,cs,2020-01-17,936
+120,2020-02-11 00:00:00,recoveryofmoney,370,misccase,cs,2020-02-11,911
+121,2020-02-13 00:00:00,possession&perpetual&mandatoryinjuction,900,issues,cs,2020-02-13,909
+122,2020-02-24 00:00:00,"arbitration&conciliationact,1996",90,misccase,rcadj,2020-02-24,898
+123,2020-01-30 00:00:00,civilcases,390,miscarguments,miscdj,2020-01-30,923
+124,2020-11-11 00:00:00,injuctions-bothpermanentandmandatory,cpc,misccase,cs,2020-11-11,637
+125,2020-01-06 00:00:00,publicpremisesact1971,90,arguments,ppa,2020-01-06,947
+126,2020-11-21 00:00:00,recoveryofmoney,740,misccase,ex,2020-11-21,627
+127,2020-01-08 00:00:00,motorvehicleact,1660,plaintiff/petitionerevidence,mact,2020-01-08,945
+128,2020-02-17 00:00:00,motorvehicleact,1630,plaintiff/petitionerevidence,dar,2020-02-17,905
+129,2020-03-17 00:00:00,recoveryofmoney,210,misccase,ex,2020-03-17,876
+130,2020-08-22 00:00:00,"arbitration&conciliationact,199,civilprocedurecode1908","36,order,21",misccase,ex,2020-08-22,718
+131,2020-01-21 00:00:00,declarationandmnadatoryinjuction,380,misccase,ex,2020-01-21,932
+132,2020-01-17 00:00:00,"arbitration&conciliationact,1996",340,finalarguments,omp(comm),2020-01-17,936
+133,2020-01-17 00:00:00,civilcases,1360,misccase,cs,2020-01-17,936
+134,2020-08-07 00:00:00,recoveryofmoney,740,misccase,cs,2020-08-07,733
+135,2020-09-22 00:00:00,motorvehicleact,1660,misccases,mact,2020-09-22,687
+136,2020-10-15 00:00:00,motorvehicleact,1630,misccases,dar,2020-10-15,664
+137,2020-10-29 00:00:00,motorvehicleact,1630,misccases,dar,2020-10-29,650
+138,2020-02-07 00:00:00,trademarkact1999,a,plaintiff/petitionerevidence,cs(comm),2020-02-07,915
+139,2020-03-17 00:00:00,recoveryofmoney,210,misccases,ex,2020-03-17,876
+140,2020-08-22 00:00:00,"arbitration&conciliationact,199,civilprocedurecode1908","36,order,21",misccases,ex,2020-08-22,718
+141,2020-01-21 00:00:00,declarationandmandatoryinjuction,380,misccases,ex,2020-01-21,932
+142,2020-01-17 00:00:00,"arbitration&conciliationact,1996",340,finalarguments,omp(comm),2020-01-17,936
+143,2020-01-17 00:00:00,civilcases,1360,misccases,cs,2020-01-17,936
+144,2020-08-07 00:00:00,recoveryofmoney,740,misccases,cs,2020-08-07,733
+145,2020-09-22 00:00:00,motorvehicleact,1660,misccases,mact,2020-09-22,687
+146,2020-10-15 00:00:00,motorvehicleact,1630,misccases,dar,2020-10-15,664
+147,2020-10-29 00:00:00,motorvehicleact,1630,misccases,dar,2020-10-29,650
+148,2020-02-07 00:00:00,trademarkact1999,a,plaintiff/petitionerevidence,cs(comm),2020-02-07,915
+149,2020-03-17 00:00:00,recoveryofmoney,210,misccases,ex,2020-03-17,876
+150,2020-08-22 00:00:00,"arbitration&conciliationact,1996,civilprocedurecode1908","36,order,21",misccases,ex,2020-08-22,718
+151,2020-01-21 00:00:00,declarationandmandatoryinjuction,380,misccases,ex,2020-01-21,932
+152,2020-01-17 00:00:00,"arbitration&conciliationact,1996",340,finalarguments,omp(comm),2020-01-17,936
+153,2020-01-17 00:00:00,civilcases,1360,misccases,cs,2020-01-17,936
+154,2020-08-07 00:00:00,recoveryofmoney,740,misccases,cs,2020-08-07,733
+155,2020-09-22 00:00:00,motorvehicleact,1660,misccases,mact,2020-09-22,687
+156,2020-10-15 00:00:00,motorvehicleact,1630,misccases,dar,2020-10-15,664
+157,2020-10-29 00:00:00,motorvehicleact,1630,misccases,dar,2020-10-29,650
+158,2020-02-07 00:00:00,trademarkact1999,a,plaintiff/petitionerevidence,cs(comm),2020-02-07,915
+159,2020-03-17 00:00:00,recoveryofmoney,210,misccases,ex,2020-03-17,876
+160,2020-08-22 00:00:00,"arbitration&conciliationact,1996,civilprocedurecode1908","36,order,21",misccases,ex,2020-08-22,718
+161,2020-01-21 00:00:00,declarationandmandatoryinjuction,380,misccases,ex,2020-01-21,932
+162,2020-01-17 00:00:00,"arbitration&conciliationact,1996",340,finalarguments,omp(comm),2020-01-17,936
+163,2020-01-17 00:00:00,civilcases,1360,misccases,cs,2020-01-17,936
+164,2020-08-07 00:00:00,recoveryofmoney,740,misccases,cs,2020-08-07,733
+165,2020-09-22 00:00:00,motorvehicleact,1660,misccases,mact,2020-09-22,687
+166,2020-10-15 00:00:00,motorvehicleact,1630,misccases,dar,2020-10-15,664
+167,2020-10-29 00:00:00,motorvehicleact,1630,misccases,dar,2020-10-29,650
+168,2020-02-07 00:00:00,trademarkact1999,a,plaintiff/petitionerevidence,cs(comm),2020-02-07,915
+169,2018-10-23 00:00:00,motorvehicleact,1630,plaintiff/petitionerevidence,dar,2018-10-23,1387
+170,2018-12-14 00:00:00,motorvehicleact,1630,miscarguments,dar,2018-12-14,1335
+171,2018-10-01 00:00:00,"arbitration&conciliationact,1996",340,miscarguments,arbtn,2018-10-01,1409
+172,2018-02-17 00:00:00,motorvehicleact,1630,plaintiff/petitionerevidence,dar,2018-02-17,1635
+173,2018-12-18 00:00:00,arbitrationapplicationsu/s9,90,finalarguments,ppa,2018-12-18,1331
+174,2018-09-29 00:00:00,suitfordeclaration,970,finalarguments,rcadj,2018-09-29,1411
+175,2018-10-27 00:00:00,civilcases,1360,misccases,ex,2018-10-27,1383
+176,2018-05-11 00:00:00,trademarkact1999,1510,plaintiff/petitionerevidence,cs(comm),2018-05-11,1552
+177,2018-08-31 00:00:00,recoveryofmoney,170,plaintiff/petitionerevidence,cs,2018-08-31,1440
+178,2018-02-27 00:00:00,recoveryofmoney,740,plaintiff/petitionerevidence,cs,2018-02-27,1625
+179,2018-04-10 00:00:00,"arbitration&conciliationact,1996",340,arguments,arbtn,2018-04-10,1583
+180,2018-02-15 00:00:00,civilcases,960,miscarguments,rcadj,2018-02-15,1637
+181,2019-10-01 00:00:00,motorvehicleact,1630,plaintiff/petitionerevidence,dar,2019-10-01,1044
+182,2019-08-19 00:00:00,motorvehicleact,1630,plaintiff/petitionerevidence,dar,2019-08-19,1087
+183,2019-01-21 00:00:00,motorvehicleact,1630,misccases,dar,2019-01-21,1297
+184,2019-12-17 00:00:00,recoveryofmoney,740,misccases,cs,2019-12-17,967
+185,2019-08-22 00:00:00,"arbitration&conciliationact,1996",cpc,misccases,ex,2019-08-22,1084
+186,2019-03-19 00:00:00,motorvehicleact,1630,plaintiff/petitionerevidence,dar,2019-03-19,1240
+187,2019-01-15 00:00:00,injuctions-bothpermanentandmandatory,850,finalarguments,rcadj,2019-01-15,1303
+188,2019-03-20 00:00:00,publicpremisesact1971,90,misccases,ppa,2019-03-20,1239
+189,2019-03-30 00:00:00,civilcases,1360,misccases,rcadj,2019-03-30,1229
+190,2017-05-08 00:00:00,motorvehicleact,1660,misccases,mact,2017-05-08,1920
+191,2017-10-13 00:00:00,trademarkact1999,1340,finalarguments,tm,2017-10-13,1762
+192,2017-11-29 00:00:00,trademarkact1999,1310,finalarguments,tm,2017-11-29,1715
+193,2017-09-11 00:00:00,"arbitration&conciliationact,1996",340,misccases,arbtn,2017-09-11,1794
+194,2017-09-05 00:00:00,trademarkact1999,1340,arguments,tm,2017-09-05,1800
+195,2017-01-17 00:00:00,civilcases,700,plaintiff/petitionerevidence,counterclaim,2017-01-17,2031
+196,2017-02-02 00:00:00,crpc,3400,miscarguments,miscdj,2017-02-02,2015
+197,2017-06-03 00:00:00,trademarkact1999,1340,misccases,tm,2017-06-03,1894
+198,2017-03-22 00:00:00,civilcases,210,miscarguments,ex,2017-03-22,1967
+199,2017-01-28 00:00:00,recoveryofmoney,1510,miscarguments,cs,2017-01-28,2020
+200,2017-06-03 00:00:00,trademarkact1999,1340,misccases,tm,2017-06-03,1894
+201,2017-11-07 00:00:00,"arbitration&conciliationact,1996",340,misccases/purpose,arbtn,2017-11-07,1737
+202,28-11-2017,executionact1990,cpc,misccases/purpose,ex,2017-11-28,1716
+203,23-08-2017,motorvehicleact,1660,misccases/purpose,mex,2017-08-23,1813
+204,24-08-2017,regularcivilappeal,appeal,miscarguements,rcadj,2017-08-24,1812
+205,2017-04-09 00:00:00,civilprocedurecode,1510,plaintiff/petitionerevidence,csdj,2017-04-09,1949
+206,2017-11-10 00:00:00,civilprocedurecode,1510,finalarguments,csdj,2017-11-10,1734
+207,28-11-2017,theindiansuccessionact1925,2760,misccases/purpose,pc,2017-11-28,1716
+208,13-04-2017,recoveryofmoney,recovery,misccases/purpose,csdj,2017-04-13,1945
+209,13-04-2017,"permanentinjuction,renditionsofaccounts",cpc,plaintiff/petitionerevidence,cs(comm),2017-04-13,1945
+210,2017-02-01 00:00:00,recoveryofmoney,5340000,plaintiff/petitionerevidence,csdj,2017-02-01,2016
+211,2017-10-08 00:00:00,"industrialdisputesact,1947",10(1)c,plaintiff/petitionerevidence,lir,2017-10-08,1767
+212,23-05-2017,"industrialdisputesact,1947",12(4),order,lir,2017-05-23,1905
+213,18-01-2017,"industrialdisputesact,1947",100,plaintiff/petitionerevidence,lir,2017-01-18,2030
+214,2017-02-06 00:00:00,"industrialdisputesact,1947",10(1)(c),plaintiff/petitionerevidence,lir,2017-02-06,2011
+215,14-03-2017,"industrialdisputesact,1947",10(1)(d),defendant/respondentevidence,poit,2017-03-14,1975
+216,2017-11-04 00:00:00,"industrialdisputesact,1947",10(1)(c),plaintiff/petitionerevidence,lir,2017-11-04,1740
+217,15-04-2017,"industrialdisputesact,1947",120,misccases,lir,2017-04-15,1943
+218,21-04-2017,"industrialdisputesact,1947",10(1)(c),defendant/respondentevidence,lir,2017-04-21,1937
+219,2017-06-05 00:00:00,"industrialdisputesact,1947",100,miscarguments,lir,2017-06-05,1892
+220,2017-11-08 00:00:00,"industrialdisputesact,1947",10(1)c,misc/appearance,lir,2017-11-08,1736
+221,16-01-2017,"industrialdisputesact,1947",120,plaintiff/petitionerevidence,lir,2017-01-16,2032
+222,20-01-2017,"industrialdisputesact,1947",100,miscarguments,lir,2017-01-20,2028
+223,29-05-2017,"industrialdisputesact,1947",2a,plaintiff/petitionerevidence,lir,2017-05-29,1899
