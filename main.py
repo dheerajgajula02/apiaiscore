@@ -116,8 +116,7 @@ class ai:
   ann.add(tf.keras.layers.Dense(units=100, activation='relu'))
   ann.add(tf.keras.layers.Dense(units=100, activation='relu'))
   ann.add(tf.keras.layers.Dense(units=100, activation='relu'))
-  for i in range(0, 5):
-      ann.add(tf.keras.layers.Dense(units=100, activation='relu'))
+  ann.add(tf.keras.layers.Dense(units=100, activation='relu'))
   ann.compile(optimizer= 'adam' , loss='mean_squared_error' )
   ann.add(tf.keras.layers.Dense(units=1))
 
