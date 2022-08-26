@@ -116,9 +116,7 @@ class ai:
   ann.add(tf.keras.layers.Dense(units=100, activation='relu'))
   ann.add(tf.keras.layers.Dense(units=100, activation='relu'))
   ann.add(tf.keras.layers.Dense(units=100, activation='relu'))
-  ann.add(tf.keras.layers.Dense(units=100, activation='relu'))
   ann.compile(optimizer= 'adam' , loss='mean_squared_error' )
-  ann.add(tf.keras.layers.Dense(units=1))
 
   ann.fit(final, score, batch_size=32, epochs=100)
 
